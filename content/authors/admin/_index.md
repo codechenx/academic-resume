@@ -10,7 +10,7 @@ role: Ph.D student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Leibniz Institute for Natural Product Research and Infection Biology:Hans Knöll Institute 
+- name: Leibniz Institute for Natural Product Research and Infection Biology-Hans Knöll Institute 
   url: https://www.leibniz-hki.de
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,8 +18,8 @@ bio: My research interest focus on computational biology.
 
 # Interests to show in About widget
 interests:
-- bioinformatics
-- data science
+- Bioinformatics
+- Data Science
 
 # Education to show in About widget
 education:
@@ -61,4 +61,4 @@ email: ""
 highlight_name: false
 ---
 
-Xiuqiang(Stephen) Chen is a Ph.D student of systems biology and bioinformatics at the Hans Knöll Institute. His research interest focus on computational biology.
+I'm a Ph.D student of systems biology and bioinformatics at the Hans Knöll Institute. My research interest focus on computational biology.

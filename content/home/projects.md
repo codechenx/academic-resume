@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: tools
+  - name: Tools
     tag: tools
 
 
