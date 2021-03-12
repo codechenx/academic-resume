@@ -46,9 +46,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/codechenx
-- icon: envelope-square
-  icon_pack: fas
-  link: codechenx@gmail.com
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
