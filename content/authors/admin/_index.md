@@ -24,13 +24,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D in Systems Biology and Bioinformatics
+  - course: PhD in Systems Biology and Bioinformatics
     institution: Leibniz Institute for Natural Product Research and Infection Biology:Hans Knöll Institute 
     year: current
   - course: MSc in Microbiology
     institution: Institute Of Microbiology, Chinese Academy of Sciences
     year: 2018
-  - course: BSc in Liaoning University
+  - course: BSc in Molecular Biology and Biochemistry
     institution: Liaoning University
     year: 2015
 
