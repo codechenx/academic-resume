@@ -25,13 +25,13 @@ interests:
 education:
   courses:
   - course: PhD in Systems Biology and Bioinformatics
-    institution: Leibniz Institute for Natural Product Research and Infection Biology:Hans Knöll Institute, Germany
+    institution: Hans Knöll Institute, Germany
     year: current
   - course: MSc in Microbiology
-    institution: Institute Of Microbiology, Chinese Academy of Sciences,China
+    institution: Institute Of Microbiology, Chinese Academy of Sciences, China
     year: 2018
-  - course: BSc in Molecular Biology and Biochemistry,China
-    institution: Liaoning University
+  - course: BSc in Molecular Biology and Biochemistry
+    institution: Liaoning University, China
     year: 2015
 
 # Social/Academic Networking
